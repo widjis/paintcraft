@@ -5,6 +5,8 @@ two-colour workflow, same shortcuts — rebuilt clean-room with Swift and AppKit
 plus layers, non-destructive adjustments, smart guides, background removal and an
 optional AI image slot.
 
+![PaintCraft running with a seven-layer demo painting](Docs/screenshot.jpg)
+
 Not affiliated with, endorsed by, or containing assets from Microsoft.
 
 ## Build and run
