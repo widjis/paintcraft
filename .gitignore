@@ -1,0 +1,31 @@
+# Build output
+build/
+dist/
+*.app
+*.dmg
+*.sha256
+*.icns
+*.iconset/
+
+# Module/compiler caches
+.cache/
+*.o
+*.dSYM/
+.swiftpm/
+DerivedData/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.xcuserstate
+xcuserdata/
+
+# Local notes / secrets — never commit credentials
+.env
+*.local
