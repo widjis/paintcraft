@@ -1,0 +1,11 @@
+name: probe
+on: workflow_dispatch
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello from ubuntu"
+  mac:
+    runs-on: macos-14
+    steps:
+      - run: sw_vers
